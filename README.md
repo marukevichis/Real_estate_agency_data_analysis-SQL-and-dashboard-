@@ -20,7 +20,7 @@
 
 ### [Ссылка на дашборд для агентства недвижимости в DataLens](https://datalens.yandex/gxsvdamlqdvq3)
 
-❗ *Отчет о результатах проведенной работы с расчетами и выводами приложен в отдельном файле Analytical_report_of_project*
+### ❗ [Ссылка на аналитический отчет по результатам исследования](https://github.com/marukevichis/Real_estate_agency_data_analysis-SQL-and-dashboard-/blob/main/Analytical_report_of_project.md)
 
 ## Описание данных используемых при  реализации проекта:
 
